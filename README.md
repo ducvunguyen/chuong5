@@ -1,6 +1,3 @@
-## Chuong 5: Cách t?i uu hóa n?i dung c?a b?n cho t? l? thoát và th?i gian d?ng.
-Ok v?y b?n s? d?ng các m?o tang CTR c?a tôi. Và nhi?u ngu?i hon dang nh?p vào k?t qu? c?a b?n
-c?a b?n hon bao gi? h?t.
 
 ## Chương 5: Cách tối ưu hóa nội dung của bạn cho tỷ lệ thoát và thời gian dừng.
 Ok vậy bạn sử dụng các mẹo tang CTR của tôi. Và nhiều người hơn đang nhấp vào kết quả của bạn
