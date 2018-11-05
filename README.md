@@ -1,193 +1,203 @@
-## Chuong 5: C�ch t?i uu h�a n?i dung c?a b?n cho t? l? tho�t v� th?i gian d?ng.
-Ok v?y b?n s? d?ng c�c m?o tang CTR c?a t�i. V� nhi?u ngu?i hon dang nh?p v�o k?t qu? c?a b?n
+## Chuong 5: Cách t?i uu hóa n?i dung c?a b?n cho t? l? thoát và th?i gian d?ng.
+Ok v?y b?n s? d?ng các m?o tang CTR c?a tôi. Và nhi?u ngu?i hon dang nh?p vào k?t qu? c?a b?n
 c?a b?n hon bao gi? h?t.
 
-Gi? th� sao? V�ng, b?n c?n pahir cho Google th?y r?ng k?t qu? c?a b?n l�m cho ngu?i d�ng c?a h?
-h�i l�ng.
+## Chương 5: Cách tối ưu hóa nội dung của bạn cho tỷ lệ thoát và thời gian dừng.
+Ok vậy bạn sử dụng các mẹo tang CTR của tôi. Và nhiều người hơn đang nhấp vào kết quả của bạn
+của bạn hơn bao giờ hết.
 
-V� c�ch t?t nh?t l�m di?u d�? C?i thi?n th?i gian s?ng c?a b?n.
+Giờ thì sao? Vâng, bạn cần pahir cho Google thấy rằng kết quả của bạn làm cho người dùng của họ
+hài lòng.
 
-###Google th?c s? s? d?ng Dwell Time? Yup!
+Và cách tốt nhất làm điều đó? Cải thiện thời gian sống của bạn.
 
-Th?i gian d?ng l� lu?ng th?i gian m� m?t ngu?i t�m ki?m Google d�nh tr�n trang web c?a b?n sau khi 
-nh?p v�o k?t qu? c?u b?n.
+###Google thực sự sử dụng Dwell Time? Yup!
 
-R� r�ng, ngu?i c�n d�nh nghi?u th?i gian tr�n trang c?a b?n c�ng t?t. �i?u n�y n�i tr�n v?i google:"
-Con ngu?i, m?i ngu?i dang LOVING k?t qu? n�y. Ch�ng ta h�y d?y n� l�n m?t v�i di?m".
+Thời gian dừng là lượng thời gian mà một người tìm kiếm Google dành trên trang web của bạn sau khi 
+nhấp vào kết quả cảu bạn.
 
-V� m?t ngu?i n�o d� b? tr? l?i t? trang web c?u b?n sau 2 gi�y, di?u d� s? cho google bi?t: "k?t quar n�y
-s? b? d�ng l?i! H�y th? n� xu?ng m?t v�i di?m".
+Rõ ràng, người còn dành nghiều thời gian trên trang của bạn càng tốt. Điều này nói trên với google:"
+Con người, mọi người đang LOVING kết quả này. Chúng ta hãy đẩy nó lên một vài điểm".
 
-
-V� v?y, n� l� h?p l� m� RankBrain s? do Drell Th?i gian - v� tr�ng c�c k?t qu? xung quanh d? tr�n t�n hi?u n�y.
-
-Tr�n th?c t?, m?t nh�n vi�n c?a google g?n d�y d� n�i r?ng Google d� s? d?ng 100% t�n hi?u ngo�i trang (d?c bi?t l� c�c li�n k?t 
-ngu?c). M?c d� google v?n s? d?ng backlinks, nh�n vi�n n�y d� ch? ra r?ng:
-
-V� sao luu d? li?u n�y. Khi ch�ng t�i ph�n t�ch m?t t?p h? l?n c�c k?t qu? t�m ki?m c?a google, ch�ng t�i d� t�m th?y m?i tuong 
-quan gi?a x?p h?ng cao t? l? tho�t th?p:
-
-###L�m th? n�o d? gi?m t? l? tho�t v� tang th?i gian s?ng
-
-B�y gi? l� l�c d? t�i chia s? m?t v�i chi?n lu?c don gi?n m� b?n c� th? s? d?ng d? tang th?i gian s?ng c?u m?t trang web.
-
-1. �?y n?i dung c?a b?n l�n trang d?u ti�n
-
-Khi ai d� nh?p v�o trang web c?a b?n t? Google, h? mu?n c�u h?i c?a h?c du?c tr? l?i NGAY B�Y GI?.
-
-N�i c�ch kh�c, h? kh�ng cu?n xu?ng d? d?c n?i dung c?a b?n.
+VÀ một người nào đó bị trả lại từ trang web cảu bạn sau 2 giây, điều đó sẽ cho google biết: "kết quar này
+sẽ bị dùng lại! Hãy thả nó xuống một vài điểm".
 
 
-�� l� l� do t?i sao t�i khuy�n b?n n�n x�a m?i th? d?y n?i d?ng c?a b?n xu?ng du?i m�n h�nh d?u ti�n, nhu sau:
+Vì vậy, nó là hợp lý mà RankBrain sẽ do Drell Thời gian - và trông các kết quả xung quanh dự trên tín hiếu này.
 
-Thay v�o d�, b?n mu?n c�u d?u ti�n c?a n?i dung v� trung t�m n?i dung c?a m�nh:
+Trên thực tế, một nhân viên của google gần đây đã nói rằng Google đã sử dụng 100% tín hiệu ngoài trang (đặc biệt là các liên kết 
+ngược). Mặc dù google vẫn sử dụng backlinks, nhân viên này đã chỉ ra rằng:
 
-B?ng  c�ch d�, b?n s? thu h�t ngu?i d?c c?a b?n ngay l?p t?c.
+Và sao lưu dữ liệu này. Khi chúng tôi phân tích một tập hợ lớn các kết quả tìm kiếm của google, chúng tôi đã tìm thấy mối tương 
+quan giữa xếp hạng cao tỷ lệ thoát thấp:
 
-2. S? d?ng gi?i thi?u ng?n (5-10 c�u MAX)
+###Làm thế nào để giảm tỷ lệ thoát và tăng thời gian sống
 
-Tin hay khoogn, nhung t�i d�nh nhi?u th?i gian hon cho b?n gi?i thi?u c?u t�i hon l� ti�u d? c?a t�i.
+Bây giờ là lúc để tôi chia sẻ một vài chiến lược đơn giản mà bạn có thể sử dụng để tăng thời gian sống cảu một trang web.
 
-�� l� b?i v� ph?n gi?i thi?u c?a b?n l� noi m� 90% d?c gi? c?a b?n quy?t d?nh ? l?i ...ho?c di.\
+1. Đẩy nội dung của bạn lên trang đầu tiên
 
-V� sau r?t nhi?u th? nghi?m, t�i d� th?y r?ng ph?n gi?i thi?u ng?n ho?t d?ng t?t nh?t.
+Khi ai đó nhấp vào trang web của bạn từ Google, họ muốn câu hỏi của học được trả lời NGAY BÂY GIỜ.
 
-T?i sao?
+Nói cách khác, họ không cuộn xuống để dọc nội dung của bạn.
 
-Khi ai d� t�m ki?m th? g� d� tr�n Google, h? d� bi?t v? ch? d? d�. V� v?y, kh�ng c?n m?t ph?n gi?i thi?u d�i d�ng.
 
-Thay v�o d�, h�y s? d?ng ph?n gi?i thi?u c?a b?n d? hi?n th? ra n?i dung m� h? s?p d?c, nhu sau:
+Đó là lý do tại sao tôi khuyên bạn nên xóa mọi thứ đẩy nội dụng của bạn xuống dưới màn hình dầu tiên, như sau:
 
-Khi ai d� t�m ki?m  �white hat SEO� h? s? d?c ph?n gi?i thi?u v� nghi: �Tuy?t v?i! T�i dang ? d�ng noi.�
-**Xu?t b?n n?i dung d�i, chuy�n s�u**
-T�i d� th? nghi?m mu?i c�ch cho d?n th? ba. V� t�i c� th? t? tin n�i v?i b?n r?ng:
+Thay vào đó, bạn muốn câu đầu tiên của nội dung và trung tâm nội dung của mình:
 
-N?i dung d�i hon = Dwell Time cao hon.
+Bằng  cách đó, bạn sẽ thu hút người đọc của bạn ngay lập tức.
 
-R� r�ng, ph?i m?t nhi?u th?i gian hon d? d?c hu?ng d?n t? 2000 t? m?t b�i dang tr�n blog d�i 400 t?. Nhung d� ch? l� m?t ph?n c?a c�ch n�y.
+2. Sử dụng giới thiệu ngắn (5-10 câu MAX)
 
-L� do kh�c khi?n n?i dung bi?u m?u d�i c?i thi?n Dwell Time l� n?i dung d�i hon c� th? tr? l?i d?y d? c�u h?i c?a ngu?i t�m ki?m.
+Tin hay khoogn, nhưng tôi dành nhiều thời gian hơn cho bần giới thiệu cảu tôi hơn là tiêu đề của tôi.
 
-V� d?: gi? s? b?n t�m ki?m �how to run a marathon�.
+Đó là bởi vì phần giới thiệu của bạn là nơi mà 90% độc giả của bạn quyết định ở lại ...hoặc đi.\
 
-V� k?t qu? d?u ti�n m� b?n nh?p v�o l� b�i vi?t 300 t?. N� d� tr? l?i du?c c�u h?i c?a b?n� nhung b?n mu?n nhi?u hon n?a.
+Và sau rất nhiều thử nghiệm, tôi đã thấy rằng phần giới thiệu ngắn hoạt động tốt nhất.
 
-V� v?y, b?n b?m v�o n�t quay l?i c?a b?n d? t�m m?t c�i g� d� t?t hon (nhu b?n c� th? nh?, Google g?i d�y l� �Pogo-sticking�).
+Tại sao?
 
-V� l?n n�y b?n tr�ng s? d?c d?c.
+Khi ai đó tìm kiếm thứ gì đó trên Google, họ đã biết về chủ đề đó. Vì vậy, không cần một phần giới thiệu dài dòng.
 
-B?n t�m th?y hu?ng d?n to�n di?n bao g?m m?i th? b?n c?n bi?t v? vi?c ch?y marathon.
+Thay vào đó, hãy sử dụng phần giới thiệu của bạn để hiển thị ra nội dung mà họ sắp đọc, như sau:
 
-V� v?y, b?n l?y m?t t�ch c� ph� v� d?c hu?ng d?n t? d?u d?n cu?i. B?n th?m ch� c�n d?c l?i m?t s? ph?n nh?t d?nh. T?t c? nh?ng b�i d?c n�y d?u c� Dwell Time nghi�m t�c.
+Khi ai đó tìm kiếm  “white hat SEO” họ sẽ đọc phần giới thiệu và nghĩ: “Tuyệt vời! Tôi đang ở đúng nơi.”
+**Xuất bản nội dung dài, chuyên sâu**
+Tôi đã thử nghiệm mười cách cho đến thứ ba. Và tôi có thể tự tin nói với bạn rằng:
 
-N?i dung d?ng d�i ho?t d?ng t?t d?n m?c t�i CH? xu?t b?n n?i dung c� �t nh?t 2.000 t?.
+Nội dung dài hơn = Dwell Time cao hơn.
 
-**Chia nh? n?i dung c?a b?n th�nh c�c kh?i c� k�ch thu?c nh?**
-H�y d?i m?t v?i n�:
+Rõ ràng, phải mất nhiều thời gian hơn để đọc hướng dẫn từ 2000 từ một bài đăng trên blog dài 400 từ. Nhưng đó chỉ là một phần của cách này.
 
-�?c 2.000 t? l� r?t c?c nh?c.
+Lý do khác khiến nội dung biểu mẫu dài cải thiện Dwell Time là nội dung dài hơn có thể trả lời đầy đủ câu hỏi của người tìm kiếm.
 
-V� n� c�n kh� hon n?u 2.000 t? d� du?c tr�nh b�y nhu m?t b?c tu?ng van b?n kh?ng l?.
+Ví dụ: giả sử bạn tìm kiếm “how to run a marathon”.
 
-May m?n thay, c� m?t c�ch don gi?n d? gi?i quy?t v?n d? n�y: ti�u d? ph?.
+Và kết quả đầu tiên mà bạn nhấp vào là bài viết 300 từ. Nó đã trả lời được câu hỏi của bạn… nhưng bạn muốn nhiều hơn nữa.
 
-Ti�u d? ph? chia nh? n?i dung c?a b?n th�nh c�c ph?n c� k�ch thu?c nh?. �i?u n�y c?i thi?n kh? nang d?c v� do d� s? c?i thi?n Dwell Time.
+Vì vậy, bạn bấm vào nút quay lại của bạn để tìm một cái gì đó tốt hơn (như bạn có thể nhớ, Google gọi đây là “Pogo-sticking”).
 
-T�i s? d?ng r?t nhi?u ti�u d? ph? trong Backlinko v� l� do n�y:
+Và lần này bạn trúng số độc đắc.
 
-C? th?, t�i c? g?ng t?o ra m?t ti�u d? ph? cho m?i 200 t? n?i dung.
+Bạn tìm thấy hướng dẫn toàn diện bao gồm mọi thứ bạn cần biết về việc chạy marathon.
 
-> M?o hay: Tr�nh c�c ti�u d? ph? nh�m ch�n nhu �Backhand Drills� ho?c �Stay Hydrated�. Thay v�o d�, h�y d�ng g�i c�c ti�u d? ph? c?a b?n b?ng c?m x�c. V� d? : �3 Simple Backhand Drills The Pros Use� v� �What New Research Says About Staying Hydrated.�
-## CHAPTER 6: Chi?n lu?c t?i uu h�a RankBrain v� c�c nghi�n c?u di?n h�nh.
-Trong chuong n�y, t�i s? gi?i thi?u m?t s? chi?n lu?c nhanh m� b?n c� th? s? d?ng d? t?i uu h�a trang web c?a m�nh cho RankBrain.
+Vì vậy, bạn lấy một tách cà phê và đọc hướng dẫn từ đầu đến cuối. Bạn thậm chí còn đọc lại một số phần nhất định. Tất cả những bài đọc này đều có Dwell Time nghiêm túc.
+
+Nội dung dạng dài hoạt động tốt đến mức tôi CHỈ xuất bản nội dung có ít nhất 2.000 từ.
+
+**Chia nhỏ nội dung của bạn thành các khối có kích thước nhỏ**
+Hãy đối mặt với nó:
+
+Đọc 2.000 từ là rất cực nhọc.
+
+Và nó còn khó hơn nếu 2.000 từ đó được trình bày như một bức tường văn bản khổng lồ.
+
+May mắn thay, có một cách đơn giản để giải quyết vấn đề này: tiêu đề phụ.
+
+Tiêu đề phụ chia nhỏ nội dung của bạn thành các phần có kích thước nhỏ. Điều này cải thiện khả năng đọc và do đó sẽ cải thiện Dwell Time.
+
+Tôi sử dụng rất nhiều tiêu đề phụ trong Backlinko vì lý do này:
+
+Cụ thể, tôi cố gắng tạo ra một tiêu đề phụ cho mỗi 200 từ nội dung.
+
+> Mẹo hay: Tránh các tiêu đề phụ nhàm chán như “Backhand Drills” hoặc “Stay Hydrated”. Thay vào đó, hãy đóng gói các tiêu đề phụ của bạn bằng cảm xúc. Ví dụ : “3 Simple Backhand Drills The Pros Use” và “What New Research Says About Staying Hydrated.”
+## CHAPTER 6: Chiến lược tối ưu hóa RankBrain và các nghiên cứu điển hình.
+Trong chương này, tôi sẽ giới thiệu một số chiến lược nhanh mà bạn có thể sử dụng để tối ưu hóa trang web của mình cho RankBrain.
 ### Increase Brand Awareness. Improve CTR
-T�i d� ch? cho b?n c�ch nhu th�m s?, c?m x�c v� t? ng? m?nh d? c� th? c?i thi?n CTR m� kh�ng ph?i tr? ph�.
+Tôi đã chỉ cho bạn cách như thêm số, cảm xúc và từ ngữ mạnh để có thể cải thiện CTR mà không phải trả phí.
 
-Nhung c� m?t c�ch kh?ng l? kh�c m� t�i chua d? c?p d� l� : Nh?n th?c v? thuong hi?u
+Nhưng có một cách khổng lồ khác mà tôi chưa đề cập đó là : Nhận thức về thương hiệu
 
-Kh�ng c?n ph?i n�i, n?u ai d� bi?t thuong hi?u c?a b?n, h? c� nhi?u kh? nang nh?p v�o trang web c?a b?n hon trong k?t qu? t�m ki?m. Tr�n th?c t?, d? li?u t? WordStream nh?n th?y r?ng nh?n th?c v? thuong hi?u c� th? tang CTR l�n t?i 342%!
+Không cần phải nói, nếu ai đó biết thương hiệu của bạn, họ có nhiều khả năng nhấp vào trang web của bạn hơn trong kết quả tìm kiếm. Trên thực tế, dữ liệu từ WordStream nhận thấy rằng nhận thức về thương hiệu có thể tăng CTR lên tới 342%!
 
-V� d?: h�y xem c�c k?t qu? t�m ki?m sau:
+Ví dụ: hãy xem các kết quả tìm kiếm sau:
 
-B?n c� nhi?u kh? nang nh?p v�o hai trang web n�o nh?t? t?t nhi�n l� NYTimes.com v� Simply Recipes !
+Bạn có nhiều khả năng nhấp vào hai trang web nào nhất? tất nhiên là NYTimes.com và Simply Recipes !
 
-N�i c�ch kh�c, b?n mu?n m?i ngu?i bi?t v? thuong hi?u c?a b?n TRU?C KHI h? t�m ki?m trong Google.
+Nói cách khác, bạn muốn mọi người biết về thương hiệu của bạn TRƯỚC KHI họ tìm kiếm trong Google.
 
-L�m th? n�o b?n c� th? tang nh?n th?c v? thuong hi?u c?a b?n?
+Làm thế nào bạn có thể tăng nhận thức về thương hiệu của bạn?
 
-**�?u ti�n, h�y th? qu?ng c�o FB.**
+**Đầu tiên, hãy thử quảng cáo FB.**
 
-Th?m chi n?u ngu?i d�ng kh�ng click v� chuy?n hu?ng, Facebook ads c� th? d?t thuong hi?u c?a b?n ti?p c?n r?t nhi?u ngu?i
+Thậm chi nếu người dùng không click và chuyển hướng, Facebook ads có thể đặt thương hiệu của bạn tiếp cận rất nhiều người
 
-V� khi h? xem k?t qu? t�m ki?m, th� h? c� nhi?u kh? nang nh?p v�o k?t qu? c?a b?n hon.
+Và khi họ xem kết quả tìm kiếm, thì họ có nhiều khả năng nhấp vào kết quả của bạn hơn.
 
 **Also, create an insanely valuable email newsletter.**
 
-Kh�ng c� g� l�m tang nh?n th?c v? thuong hi?u hon l� g?i n?i dung c� gi� tr? d?n h?p thu c?a m?i ngu?i.
+Không có gì làm tăng nhận thức về thương hiệu hơn là gửi nội dung có giá trị đến hộp thư của mọi người.
 
-Th?c t?, t? l? truy c?p c?a t�i cao hon m?c trung b�nh c?a ng�nh b?i v� t�i ch? g?i nh?ng th? t?t:
+Thực tế, tỷ lệ truy cập của tôi cao hơn mức trung bình của ngành bởi vì tôi chỉ gửi những thứ tốt:
 
-Kh�ng c?n ph?i n�i, nh?ng ngu?i dang k� c?a t�i d� h?c du?c r?ng t�i li?u c?a t�i l� t?t nh?t trong kinh doanh. V� v?y, khi Backlinko xu?t hi?n tr�n trang 1, h? c� nhi?u kh? nang nh?p v�o k?t qu? c?a t�i hon.
+Không cần phải nói, những người đăng ký của tôi đã học được rằng tài liệu của tôi là tốt nhất trong kinh doanh. Vì vậy, khi Backlinko xuất hiện trên trang 1, họ có nhiều khả năng nhấp vào kết quả của tôi hơn.
 
-**Cu?i c�ng ,h�y th?c hi?n �Content Blitz�.**
- �Content Blitz� l� b?n s? ph�t h�nh r?t n?i dung trong m?t kho?ng th?i gian ng?n. V� h�y tin t�i: d�y l� c�ch t?t hon nhi?u so v?i n?i dung nh? gi?t trong su?t c? nam
+**Cuối cùng ,hãy thực hiện “Content Blitz”.**
+ “Content Blitz” là bạn sẽ phát hành rất nội dung trong một khoảng thời gian ngắn. Và hãy tin tôi: đây là cách tốt hơn nhiều so với nội dung nhỏ giọt trong suốt cả năm
 
-Trong th?c t?, t�i d� s? d?ng Content Blitz khi l?n d?u ti�n t?i b?t d?u v?i Backlinko.
+Trong thực tế, tôi đã sử dụng Content Blitz khi lần đầu tiên tối bắt đầu với Backlinko.
 
-T�i d� xu?t b?n b�i dang c?a kh�ch:
+Tôi đã xuất bản bài đăng của khách:
 
-T�i d� v�o Podcasts:
+Tôi đã vào Podcasts:
 
-T�i th?m ch� l� d?ng t�c gi? c?a m?t hu?ng d?n v?i Neil Patel:
+Tôi thậm chí là đồng tác giả của một hướng dẫn với Neil Patel:
 
-(T?t c? trong v�i th�ng)
+(Tất cả trong vài tháng)
 
-V� di?u n�y d� gi�p Backlinko t? "C�i g� v?y?" �?n "Th?t l� m?t trang tuy?t v?i!" Trong th?i gian k? l?c.
+Và điều này đã giúp Backlinko từ "Cái gì vậy?" Đến "Thật là một trang tuyệt vời!" Trong thời gian kỷ lục.
 
-### Bi?n �Zeros� th�nh �Heros�
-B?n c� m?t trang tr�n trang web c?a m�nh kh�ng ho?t d?ng t?t nhu b?n mong mu?n kh�ng?
+### Biến “Zeros” thành “Heros”
+Bạn có một trang trên trang web của mình không hoạt động tốt như bạn mong muốn không?
 
-T�i c� tin tuy?t v?i: n?u b?n quay tr? l?i v� t?i uu h�a trang d� cho RankBrain, b?n c� th? gi�p n� m?t th? h?ng tang d�ng k?.
+Tôi có tin tuyệt vời: nếu bạn quay trở lại và tối ưu hóa trang đó cho RankBrain, bạn có thể giúp nó một thứ hạng tăng đáng kể.
 
-V� d?, Sean t? Proven.com d� c� m?t hu?ng d?n r?t l?n tr�n trang web c?a m�nh d� l�m OK ... nhung kh�ng du?c x?p h?ng cung nhu �ng d� hy v?ng.
+Ví dụ, Sean từ Proven.com đã có một hướng dẫn rất lớn trên trang web của mình đã làm OK ... nhưng không được xếp hạng cũng như ông đã hy vọng.
 
-V� Sean nh?n th?y th? ti�u d? c?a trang c?a m�nh kh�ng h?p d?n d? nh?p v�o:
+Và Sean nhận thấy thẻ tiêu đề của trang của mình không hấp dẫn để nhấp vào:
 
-V� v?y, �ng d� th�m m?t s?, m?t Power Word v� d?u ngo?c don v�o th? ti�u d? c?a m�nh:
+Vì vậy, ông đã thêm một số, một Power Word và dấu ngoặc đơn vào thẻ tiêu đề của mình:
 
-V� thay d?i duy nh?t n�y l� luu lu?ng truy c?p v�o trang d� l�n g?n 128%:
+Và thay đổi duy nhất này là lưu lượng truy cập vào trang đó lên gần 128%:
 
-V�ng, luu lu?ng truy c?p d� tang don gi?n l� c� nhi?u ngu?i d� nh?p v�o k?t qu? c?a Sean.
+Vâng, lưu lượng truy cập đó tăng đơn giản là có nhiều người đã nhấp vào kết quả của Sean.
 
-Nhung ph?n quan tr?ng c?a c�u chuy?n l� RankBrain nh?n th?y s? tang CTR ... v� d?y trang c?a Sean l�n m?t v�i di?m:
+Nhưng phần quan trọng của câu chuyện là RankBrain nhận thấy sự tăng CTR ... và đẩy trang của Sean lên một vài điểm:
 
-### S? d?ng t? kh�a LSI d? th�m v�o �Content Gaps�
+### Sử dụng từ khóa LSI để thêm vào “Content Gaps”
 
-T? kh�a LSI l� c�c t? v� c?m t? c� li�n quan d?n ch? d? ch�nh c?a n?i dung c?a b?n.
+Từ khóa LSI là các từ và cụm từ có liên quan đến chủ đề chính của nội dung của bạn.
 
-T?i sao t? kh�a LSI l?i quan tr?ng? V�ng, n� cho RankBrain b?i c?nh d? hi?u d?y d? trang c?a b?n.
+Tại sao từ khóa LSI lại quan trọng? Vâng, nó cho RankBrain bối cảnh để hiểu đầy đủ trang của bạn.
 
-V� d?: gi? s? b?n dang vi?t hu?ng d?n v? x�y d?ng link.
+Ví dụ: giả sử bạn đang viết hướng dẫn về xây dựng link.
 
-T? kh�a LSI l� nh?ng th? nhu:
+Từ khóa LSI là những thứ như:
 
 Backlinks
 Domain Authority
 Email outreach
 Anchor text
-V� khi RankBrain th?y r?ng n?i dung c?a b?n bao g?m c�c c?m t? n�y, n� tin r?ng trang c?a b?n l� v? x�y d?ng link�
+Và khi RankBrain thấy rằng nội dung của bạn bao gồm các cụm từ này, nó tin rằng trang của bạn là về xây dựng link…
 
-�c� nghia l� b?n c� nhi?u kh? nang x?p h?ng cho c�c t? kh�a c� li�n quan d?n ch? d? d�.
+…có nghĩa là bạn có nhiều khả năng xếp hạng cho các từ khóa có liên quan đến chủ đề đó.
 
-B?n c� th? t�m ra c�c t? kh�a LSI b?ng  Watson Natural Language Understanding Tool.
+Bạn có thể tìm ra các từ khóa LSI bằng  Watson Natural Language Understanding Tool.
 
-C�ng c? n�y ph�n t�ch n?i dung m� b?n cung c?p cho c�c kh�i ni?m, th?c th? v� danh m?c.
+Công cụ này phân tích nội dung mà bạn cung cấp cho các khái niệm, thực thể và danh mục.
 
-V� d?, khi t�i d�n v�o b?n nh�p d?u ti�n c?a hu?ng d?n n�y, n� cho ra c�c kh�i ni?m li�n quan d?n RankBrain.
+Ví dụ, khi tôi dán vào bản nháp đầu tiên của hướng dẫn này, nó cho ra các khái niệm liên quan đến RankBrain.
 
-�i?u th� v? l� t�i kh�ng d? c?p d?n nhi?u thu?t ng? trong hu?ng d?n n�y. Gi?ng nhu RankBrain, Watson hi?u n?i dung c?a t�i l� g�. R?t tuy?t.
+Điều thú vị là tôi không đề cập đến nhiều thuật ngữ trong hướng dẫn này. Giống như RankBrain, Watson hiểu nội dung của tôi là gì. Rất tuyệt.
 
-V� khi b?n r?i c�c t? kh�a LSI n�y v�o b�i dang c?a m�nh, b?n s? x�c nh?n v?i RankBrain r?ng n?i dung c?a b?n l� to�n di?n.
+Và khi bạn rải các từ khóa LSI này vào bài đăng của mình, bạn sẽ xác nhận với RankBrain rằng nội dung của bạn là toàn diện.
+
+
+
+
+
+ 
 
 
 
