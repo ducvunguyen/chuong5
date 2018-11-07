@@ -3,51 +3,50 @@
 Ok vậy bạn sử dụng các mẹo tang CTR của tôi. Và nhiều người hơn đang nhấp vào kết quả của bạn
 của bạn hơn bao giờ hết.
 
-Giờ thì sao? Vâng, bạn cần pahir cho Google thấy rằng kết quả của bạn làm cho người dùng của họ
+Giờ thì sao? Vâng, bạn cần phải cho Google thấy rằng kết quả của bạn làm cho người dùng của họ
 hài lòng.
 
-Và cách tốt nhất làm điều đó? Cải thiện thời gian sống của bạn.
+Và cách tốt nhất làm điều đó? Cải thiện thời gian dừng của bạn.
 
-###Google thực sự sử dụng Dwell Time? Yup!
+### Google thực sự sử dụng Dwell Time? Yup!
 
 Thời gian dừng là lượng thời gian mà một người tìm kiếm Google dành trên trang web của bạn sau khi 
-nhấp vào kết quả cảu bạn.
+nhấp vào kết quả của bạn.
 
-Rõ ràng, người còn dành nghiều thời gian trên trang của bạn càng tốt. Điều này nói trên với google:"
-Con người, mọi người đang LOVING kết quả này. Chúng ta hãy đẩy nó lên một vài điểm".
+Rõ ràng, người càng dành nghiều thời gian trên trang của bạn càng tốt. Điều này nói với google:"
+mọi người đang YÊU THÍCH kết quả này. Chúng ta hãy đẩy nó lên một vài điểm".
 
-VÀ một người nào đó bị trả lại từ trang web cảu bạn sau 2 giây, điều đó sẽ cho google biết: "kết quar này
-sẽ bị dùng lại! Hãy thả nó xuống một vài điểm".
+VÀ nếu một người nào đó quay lại từ trang web của bạn sau 2 giây, điều đó sẽ cho google biết: "kết quar này
+sẽ bị ngừng lại! Hãy hạ nó xuống một vài điểm".
 
 
-Vì vậy, nó là hợp lý mà RankBrain sẽ do Drell Thời gian - và trông các kết quả xung quanh dự trên tín hiếu này.
+Vì vậy, điều đó là hợp lý khi mà RankBrain sẽ đo Thời gian dừng - và trộn các kết quả xung quanh dựa trên tín hiếu này.
 
-Trên thực tế, một nhân viên của google gần đây đã nói rằng Google đã sử dụng 100% tín hiệu ngoài trang (đặc biệt là các liên kết 
-ngược). Mặc dù google vẫn sử dụng backlinks, nhân viên này đã chỉ ra rằng:
+Trên thực tế, một nhân viên của google gần đây đã nói rằng Google đã sử dụng 100% tín hiệu ngoài trang (đặc biệt là các backlink). Mặc dù google vẫn sử dụng backlinks, nhân viên này đã chỉ ra rằng:
 
-Và sao lưu dữ liệu này. Khi chúng tôi phân tích một tập hợ lớn các kết quả tìm kiếm của google, chúng tôi đã tìm thấy mối tương 
+Và sao lưu dữ liệu này. Khi chúng tôi phân tích một tập hợp lớn các kết quả tìm kiếm của google, chúng tôi đã tìm thấy mối tương 
 quan giữa xếp hạng cao tỷ lệ thoát thấp:
 
-###Làm thế nào để giảm tỷ lệ thoát và tăng thời gian sống
+###Làm thế nào để giảm tỷ lệ thoát và tăng thời gian dừng
 
-Bây giờ là lúc để tôi chia sẻ một vài chiến lược đơn giản mà bạn có thể sử dụng để tăng thời gian sống cảu một trang web.
+Bây giờ là lúc để tôi chia sẻ một vài chiến lược đơn giản mà bạn có thể sử dụng để tăng thời gian dừng cảu một trang web.
 
-1. Đẩy nội dung của bạn lên trang đầu tiên
+1. Đẩy nội dung của bạn lên màn hình đầu tiên
 
-Khi ai đó nhấp vào trang web của bạn từ Google, họ muốn câu hỏi của học được trả lời NGAY BÂY GIỜ.
+Khi ai đó nhấp vào trang web của bạn từ Google, họ muốn câu hỏi của họ được trả lời NGAY BÂY GIỜ.
 
-Nói cách khác, họ không cuộn xuống để dọc nội dung của bạn.
+Nói cách khác, họ không cuộn xuống để đọc nội dung của bạn.
 
 
 Đó là lý do tại sao tôi khuyên bạn nên xóa mọi thứ đẩy nội dụng của bạn xuống dưới màn hình dầu tiên, như sau:
 
-Thay vào đó, bạn muốn câu đầu tiên của nội dung và trung tâm nội dung của mình:
+Thay vào đó, bạn muốn câu đầu tiên của nội dung ở trước và trung tâm:
 
 Bằng  cách đó, bạn sẽ thu hút người đọc của bạn ngay lập tức.
 
-2. Sử dụng giới thiệu ngắn (5-10 câu MAX)
+2. Sử dụng đoạn giới thiệu ngắn (5-10 câu MAX)
 
-Tin hay khoogn, nhưng tôi dành nhiều thời gian hơn cho bần giới thiệu cảu tôi hơn là tiêu đề của tôi.
+Tin hay không, nhưng tôi dành nhiều thời gian hơn cho bài giới thiệu cảu tôi hơn là tiêu đề của tôi.
 
 Đó là bởi vì phần giới thiệu của bạn là nơi mà 90% độc giả của bạn quyết định ở lại ...hoặc đi.\
 
@@ -99,12 +98,12 @@ Tôi sử dụng rất nhiều tiêu đề phụ trong Backlinko vì lý do này
 Cụ thể, tôi cố gắng tạo ra một tiêu đề phụ cho mỗi 200 từ nội dung.
 
 > Mẹo hay: Tránh các tiêu đề phụ nhàm chán như “Backhand Drills” hoặc “Stay Hydrated”. Thay vào đó, hãy đóng gói các tiêu đề phụ của bạn bằng cảm xúc. Ví dụ : “3 Simple Backhand Drills The Pros Use” và “What New Research Says About Staying Hydrated.”
-## CHAPTER 6: Chiến lược tối ưu hóa RankBrain và các nghiên cứu điển hình.
+## Chương 6: Chiến lược tối ưu hóa RankBrain và các nghiên cứu điển hình.
 Trong chương này, tôi sẽ giới thiệu một số chiến lược nhanh mà bạn có thể sử dụng để tối ưu hóa trang web của mình cho RankBrain.
-### Increase Brand Awareness. Improve CTR
+### Tăng Brand Awareness. Cải thiện CTR
 Tôi đã chỉ cho bạn cách như thêm số, cảm xúc và từ ngữ mạnh để có thể cải thiện CTR mà không phải trả phí.
 
-Nhưng có một cách khổng lồ khác mà tôi chưa đề cập đó là : Nhận thức về thương hiệu
+Nhưng có một giá trị LỚN khác mà tôi chưa đề cập đó là : Nhận thức về thương hiệu
 
 Không cần phải nói, nếu ai đó biết thương hiệu của bạn, họ có nhiều khả năng nhấp vào trang web của bạn hơn trong kết quả tìm kiếm. Trên thực tế, dữ liệu từ WordStream nhận thấy rằng nhận thức về thương hiệu có thể tăng CTR lên tới 342%!
 
@@ -122,7 +121,7 @@ Thậm chi nếu người dùng không click và chuyển hướng, Facebook ads
 
 Và khi họ xem kết quả tìm kiếm, thì họ có nhiều khả năng nhấp vào kết quả của bạn hơn.
 
-**Also, create an insanely valuable email newsletter.**
+**Ngoài ra, tạo một bản tin email có giá trị điên rồ.**
 
 Không có gì làm tăng nhận thức về thương hiệu hơn là gửi nội dung có giá trị đến hộp thư của mọi người.
 
